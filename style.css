@@ -1,0 +1,108 @@
+*{margin: 0;
+padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(52, 29, 79, 0.796)
+}
+
+.selectcontainer{
+ display: flex;
+gap: 82px;
+
+}
+.container{
+    background-color: white;
+  padding:2rem;
+  padding-top: 1rem;
+  border-radius: 2rem;
+  height: auto;
+
+}
+.container h2{
+    font-size: 2.4rem;
+}
+.container{
+    margin-top: 7rem;
+}
+form{
+    padding-top: 1.5rem;
+}
+.select img{
+    
+    max-width: 1.75rem;
+}
+ 
+.drop {
+    display: flex;
+    gap: 6px;
+}
+.drop select{
+cursor: pointer;
+}
+
+.drop select{
+    padding-left: 0.7em;
+}
+.mesg p{
+     
+     font-size: 1.1rem;
+      padding-left: 4.8rem;
+     padding-top:0.62rem;
+}
+.Exchange{
+     padding-top: 0.7rem;
+     display: flex;
+    justify-content: space-between;
+}
+.entery input{
+    border: 2.1px solid black;
+    border-radius: 0.5rem;
+    border-color: rgba(255, 54, 248, 0.641);
+    }
+
+    .drop select{
+         border: 2.1px solid black;
+    border-radius: 0.5rem;
+    border-color: rgba(255, 54, 248, 0.641);
+    }
+      
+.output input{
+    border: 2.1px solid black;
+    border-radius: 0.5rem;
+    border-color: rgba(255, 54, 248, 0.641);
+    }
+.btn button{
+    margin-top: 1.2rem;
+    margin-left: 8.7rem;
+     border: 2.1px solid black;
+    border-radius: 1.5rem;
+    border-color: rgba(255, 54, 57, 0.641);
+    padding: 0.5rem;
+    transition: all 0.3s ease-in;
+    
+}
+.btn button:hover {
+     
+ cursor: pointer;
+transform: scale(1.1);
+ box-shadow: 0 0 7px brown;
+
+}
+.entery input,.output input{
+    padding-left: 0.6rem;
+}
+body {
+    min-height: 100vh; 
+    display: flex;
+}
+.fa-arrow-right-arrow-left {
+    font-size: 1.4rem;       
+     
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    padding-top: 1.1rem;
+}
