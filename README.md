@@ -6,7 +6,8 @@
 
 ![Currency Converter Screenshot] 
 ![Desktop](https://github.com/user-attachments/assets/bf60ed2e-cf86-41c8-9131-fcef67e92901)
-![Mobile](https://github.com/user-attachments/assets/e8126de1-83b2-4ea5-bf16-d582817326f5)
+<img width="750" height="1334" alt="currency-converter-pi-sable-89 vercel app_(iPhone SE) (1)" src="https://github.com/user-attachments/assets/ca6b7334-dbb2-4aa1-a4d4-674f2ca83ff4" />
+-4ea5-bf16-d582817326f5)
 
 ---
 
