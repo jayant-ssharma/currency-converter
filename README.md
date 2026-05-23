@@ -5,8 +5,8 @@
 ---
 
 ## Preview
-![Desktop](./screenshots/Desktop.png)
-![Mobile](./screenshots/mobile.png)
+![Desktop](/screenshots/screenshots/Desktop.png)
+![Mobile](/screenshots/screenshots/mobile.png)
 ---
 
 ## What It Does
